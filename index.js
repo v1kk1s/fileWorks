@@ -18,32 +18,36 @@ const appendFile = (str) => {
   });
 };
 
-const readFile = () => {
-  fs.readFile(THE_FILE, 'utf-8', (err, data) => {
+const readFile = (file, code) => {
+  fs.open(file, 'r', (err, fd) => {
     if (err) {
       console.log('Read file err: ', err);
-    } else {
-      console.log(data);
+      return;
     }
+
+    fs.readFile(file, code, (err, data) => {
+      if (err) {
+        console.log('Read file err: ', err);
+      } else {
+        console.log(data);
+      }
+    });
   });
 };
 
 const copyFile = (fromFile, destFile) => {
-  // fs.copyFile(fromFile, destFile, (err) => {
-  //   if (err) {
-  //     console.log('Copy file err: ', err);
-  //   } else {
-  //     console.log('Copied! ');
-  //   }
-  // });
+  fs.open(fromFile, 'r', (err, fd) => {
+    if (err) {
+      console.log('Сopy file err: ', err);
+      return;
+    }
 
-  const fr = fs.createReadStream(fromFile);
-  const to = fs.createWriteStream(destFile);
+    const fr = fs.createReadStream(fromFile);
+    const to = fs.createWriteStream(destFile);
 
-  //readStream.pipe(writeStream) -> working with streams
-
-  fr.pipe(to)
-    .on('finish', () => console.log('done'));
+    fr.pipe(to)
+      .on('finish', () => console.log('done'));
+    });
 };
 
 const renameFile = (oldName, newName) => {
@@ -96,8 +100,8 @@ const statFile = (file) => {
 
 //writeFile('Hello there!!!! \n');
 //appendFile('Let it snow!\n');
-//readFile();
-copyFile(THE_FILE, 'files/copy.txt');
+readFile(THE_FILE, 'utf-8');
+//copyFile(THE_FILE, 'files/copy.txt');
 //rename('files/link.txt', 'files/file.txt');
 //removeFile('files/link.txt');
 //symLink('files/link.txt');
