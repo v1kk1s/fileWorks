@@ -7,8 +7,12 @@ var THE_FILE_COPY = `${process.env.PWD}/files/fileCopy.txt`;
 const writeFile = (str) => {
   const buffer = Buffer.from(str, 'utf-8');
 
-  fs.writeFile(THE_FILE, str, (err) => {
-    console.log('Write error: ', err);
+  return new Promise((resolve, reject) => {
+    fs.writeFile(THE_FILE, str, (err) => {
+      reject(new Error(err));
+    });
+
+    resolve('file created');
   });
 };
 
@@ -19,35 +23,43 @@ const appendFile = (str) => {
 };
 
 const readFile = (file, code) => {
-  fs.open(file, 'r', (err, fd) => {
-    if (err) {
-      console.log('Read file err: ', err);
-      return;
-    }
-
-    fs.readFile(file, code, (err, data) => {
+  return new Promise((resolve, reject) => {
+    fs.open(file, 'r', (err, fd) => {
       if (err) {
-        console.log('Read file err: ', err);
-      } else {
-        console.log(data);
+        reject(new Error(err));
+        return;
       }
+
+      fs.readFile(file, code, (err, data) => {
+        if (err) {
+          reject(new Error(err));
+        } else {
+          resolve(data);
+        }
+      });
     });
   });
 };
 
 const copyFile = (fromFile, destFile) => {
-  fs.open(fromFile, 'r', (err, fd) => {
-    if (err) {
-      console.log('Сopy file err: ', err);
-      return;
-    }
+  return new Promise((resolve, reject) => {
+    fs.open(fromFile, 'r', (err, fd) => {
+      if (err) {
+        console.log('Сopy file err: ', err);
+        reject(new Error(err));
+        return;
+      }
 
-    const fr = fs.createReadStream(fromFile);
-    const to = fs.createWriteStream(destFile);
+      const fr = fs.createReadStream(fromFile);
+      const to = fs.createWriteStream(destFile);
 
-    fr.pipe(to)
-      .on('finish', () => console.log('done'));
-    });
+      fr.pipe(to)
+        .on('finish', () => {
+          resolve('done');
+          console.log('done')
+        });
+      })
+  });
 };
 
 const renameFile = (oldName, newName) => {
@@ -100,12 +112,20 @@ const statFile = (file) => {
 
 //writeFile('Hello there!!!! \n');
 //appendFile('Let it snow!\n');
-readFile(THE_FILE, 'utf-8');
+//readFile(THE_FILE, 'utf-8');
 //copyFile(THE_FILE, 'files/copy.txt');
 //rename('files/link.txt', 'files/file.txt');
 //removeFile('files/link.txt');
 //symLink('files/link.txt');
 //statFile('files/link.txt');
+
+const asynchLoad = async () => {
+  await writeFile('Hello there!!!! \n');
+  await copyFile(THE_FILE, 'files/copy.txt');
+  await readFile('files/copy.txt', 'utf-8');
+};
+
+asynchLoad();
 
 
 
