@@ -120,6 +120,7 @@ const statFile = (file) => {
 //statFile('files/link.txt');
 
 const asynchLoad = async () => {
+  // wrap in try / catch
   await writeFile('Hello there!!!! \n');
   await copyFile(THE_FILE, 'files/copy.txt');
   await readFile('files/copy.txt', 'utf-8');

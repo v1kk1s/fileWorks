@@ -1,13 +1,17 @@
 HW on files
 
-copy, write, read => make asynchronus
-fn = async () => {
-  await writeFile(file);
-  await readFile(file);
-  await deleteFile(file);
-};
+Streams - pipe
+ readable
+ writable
+ transform
 
-also
-copy, write, read
-check on fs.open
-check for err if not any -> proceed
+ pipes - entities of eventEmitter
+
+ HW on pipes
+ з допом стрімів розпарсити всі строки де є слова javascript
+ дістати їх
+ записати їх в новий файл
+
+ * нарізати строки разом з інфою про помилку(до наступної дати)
+
+ js package split
