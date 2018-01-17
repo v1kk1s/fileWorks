@@ -1,0 +1,702 @@
+-01-08 17:38:15.395 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 17:38:15.541 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 17:38:15.641 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 17:38:15.776 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 17:38:15.889 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 17:38:15.891 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 17:38:15.908 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:38:17.852 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:38:19.859 [warn][tid:com.facebook.react.JavaScript] Possible Unhandled Promise Rejection (id: 0):
+SyntaxError: JSON Parse error: Unexpected identifier "Tunnel"
+parse@[native code]
+tryCallOne@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3158:14
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3244:25
+_callTimer@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2457:15
+_callImmediatesPass@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2493:17
+callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2697:31
+__callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2005:30
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1861:31
+__guard@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1991:11
+flushedQueue@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1860:20
+-01-08 17:38:24.430 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:38:30.679 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:38:37.312 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:38:39.390 [info][tid:com.facebook.react.JavaScript] 'END', 16876
+-01-08 17:38:42.922 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:38:49.245 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:38:54.838 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:00.453 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:06.198 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:11.805 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:17.659 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:23.803 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:30.102 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:35.775 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:41.374 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:46.971 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:52.561 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:39:58.797 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:04.392 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:09.987 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:15.609 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:21.334 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:27.003 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:29.162 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 17:40:29.264 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 17:40:29.346 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 17:40:29.436 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 17:40:29.480 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 17:40:29.481 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 17:40:29.516 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:40:30.017 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:32.045 [warn][tid:com.facebook.react.JavaScript] Possible Unhandled Promise Rejection (id: 0):
+SyntaxError: JSON Parse error: Unexpected identifier "Tunnel"
+parse@[native code]
+tryCallOne@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3158:14
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3244:25
+_callTimer@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2457:15
+_callImmediatesPass@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2493:17
+callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2697:31
+__callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2005:30
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1861:31
+__guard@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1991:11
+flushedQueue@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1860:20
+-01-08 17:40:35.701 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:41.297 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:46.876 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:51.120 [info][tid:com.facebook.react.JavaScript] 'END', 17290
+-01-08 17:40:52.807 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:40:58.388 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:03.998 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:09.584 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:15.194 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:19.022 [warn][tid:com.facebook.react.JavaScript] Possible Unhandled Promise Rejection (id: 1):
+ReferenceError: Can't find variable: find
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:95564:39
+arrayEach@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:76324:17
+forEach@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:76313:14
+_loop$@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:95559:40
+tryCatch@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11396:44
+invoke@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11584:30
+tryCatch@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11396:44
+invoke@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11541:32
+buildContacts@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:96203:28
+SendMessage@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:96177:37
+_callee$@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:116961:54
+tryCatch@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11396:44
+invoke@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11584:30
+tryCatch@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11396:44
+invoke@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11454:28
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:11462:19
+tryCallOne@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3158:14
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3244:25
+_callTimer@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2457:15
+_callImmediatesPass@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2493:17
+callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2697:31
+__callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2005:30
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1861:31
+__guard@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1991:11
+flushedQueue@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1860:20
+-01-08 17:41:20.794 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:26.542 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:32.242 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:38.218 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:43.804 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:49.408 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:41:55.012 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:00.605 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:06.203 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:11.792 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:17.376 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:22.959 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:28.735 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:34.447 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:40.102 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:45.683 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:51.756 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:42:57.361 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:02.938 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:08.521 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:14.130 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:19.726 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:25.297 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:31.081 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:36.814 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:42.436 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:48.013 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:53.613 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:43:59.210 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:04.793 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:10.386 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:15.974 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:21.551 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:27.347 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:32.987 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:38.592 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:44.175 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:52.169 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 17:44:52.278 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 17:44:52.367 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 17:44:52.473 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 17:44:52.536 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 17:44:52.537 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 17:44:52.573 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:44:53.081 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:44:55.138 [warn][tid:com.facebook.react.JavaScript] Possible Unhandled Promise Rejection (id: 0):
+SyntaxError: JSON Parse error: Unexpected identifier "Tunnel"
+parse@[native code]
+tryCallOne@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3158:14
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3244:25
+_callTimer@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2457:15
+_callImmediatesPass@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2493:17
+callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2697:31
+__callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2005:30
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1861:31
+__guard@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1991:11
+flushedQueue@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1860:20
+-01-08 17:44:59.092 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:04.684 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:10.283 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:14.525 [info][tid:com.facebook.react.JavaScript] 'END', 17178
+-01-08 17:45:15.887 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:21.640 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:27.219 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:30.481 [info][tid:com.facebook.react.JavaScript] Key main is already defined!
+-01-08 17:45:30.481 [info][tid:com.facebook.react.JavaScript] Key campaign is already defined!
+-01-08 17:45:30.482 [info][tid:com.facebook.react.JavaScript] Key conversation is already defined!
+-01-08 17:45:30.482 [info][tid:com.facebook.react.JavaScript] Key conversationSettings is already defined!
+-01-08 17:45:30.482 [info][tid:com.facebook.react.JavaScript] Key conversationMembers is already defined!
+-01-08 17:45:30.482 [info][tid:com.facebook.react.JavaScript] Key conversationRecipients is already defined!
+-01-08 17:45:30.483 [info][tid:com.facebook.react.JavaScript] Key conversationReplies is already defined!
+-01-08 17:45:30.483 [info][tid:com.facebook.react.JavaScript] Key directMessages is already defined!
+-01-08 17:45:30.483 [info][tid:com.facebook.react.JavaScript] Key tags is already defined!
+-01-08 17:45:30.483 [info][tid:com.facebook.react.JavaScript] Key templates is already defined!
+-01-08 17:45:30.484 [info][tid:com.facebook.react.JavaScript] Key missedTags is already defined!
+-01-08 17:45:30.484 [info][tid:com.facebook.react.JavaScript] Key auth is already defined!
+-01-08 17:45:30.484 [info][tid:com.facebook.react.JavaScript] Key contacts is already defined!
+-01-08 17:45:30.485 [info][tid:com.facebook.react.JavaScript] Key faq is already defined!
+-01-08 17:45:30.485 [info][tid:com.facebook.react.JavaScript] Key messageRecipients is already defined!
+-01-08 17:45:30.485 [info][tid:com.facebook.react.JavaScript] Key contact is already defined!
+-01-08 17:45:30.485 [info][tid:com.facebook.react.JavaScript] Key tag is already defined!
+-01-08 17:45:30.486 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:45:30.486 [info][tid:com.facebook.react.JavaScript] Key setupProAccount is already defined!
+-01-08 17:45:30.486 [info][tid:com.facebook.react.JavaScript] Key manageSubscriptions is already defined!
+-01-08 17:45:30.486 [info][tid:com.facebook.react.JavaScript] Key subscriptions is already defined!
+-01-08 17:45:30.487 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:45:30.487 [info][tid:com.facebook.react.JavaScript] Key subscriptionInfo is already defined!
+-01-08 17:45:30.487 [info][tid:com.facebook.react.JavaScript] Key root is already defined!
+-01-08 17:45:30.584 [info][tid:com.facebook.react.JavaScript] 'REMOVE LOCAL NOTIFICATION', null
+-01-08 17:45:30.587 [info][tid:com.facebook.react.JavaScript] '>>>> text', undefined
+message;
+}
+-01-08 17:45:30.796 [info][tid:com.facebook.react.JavaScript] Key main is already defined!
+-01-08 17:45:30.797 [info][tid:com.facebook.react.JavaScript] Key campaign is already defined!
+-01-08 17:45:30.797 [info][tid:com.facebook.react.JavaScript] Key conversation is already defined!
+-01-08 17:45:30.797 [info][tid:com.facebook.react.JavaScript] Key conversationSettings is already defined!
+-01-08 17:45:30.798 [info][tid:com.facebook.react.JavaScript] Key conversationMembers is already defined!
+-01-08 17:45:30.798 [info][tid:com.facebook.react.JavaScript] Key conversationRecipients is already defined!
+-01-08 17:45:30.798 [info][tid:com.facebook.react.JavaScript] Key conversationReplies is already defined!
+-01-08 17:45:30.799 [info][tid:com.facebook.react.JavaScript] Key directMessages is already defined!
+-01-08 17:45:30.799 [info][tid:com.facebook.react.JavaScript] Key tags is already defined!
+-01-08 17:45:30.799 [info][tid:com.facebook.react.JavaScript] Key templates is already defined!
+-01-08 17:45:30.799 [info][tid:com.facebook.react.JavaScript] Key missedTags is already defined!
+-01-08 17:45:30.800 [info][tid:com.facebook.react.JavaScript] Key auth is already defined!
+-01-08 17:45:30.800 [info][tid:com.facebook.react.JavaScript] Key contacts is already defined!
+-01-08 17:45:30.800 [info][tid:com.facebook.react.JavaScript] Key faq is already defined!
+-01-08 17:45:30.800 [info][tid:com.facebook.react.JavaScript] Key messageRecipients is already defined!
+-01-08 17:45:30.801 [info][tid:com.facebook.react.JavaScript] Key contact is already defined!
+-01-08 17:45:30.801 [info][tid:com.facebook.react.JavaScript] Key tag is already defined!
+-01-08 17:45:30.801 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:45:30.802 [info][tid:com.facebook.react.JavaScript] Key setupProAccount is already defined!
+-01-08 17:45:30.802 [info][tid:com.facebook.react.JavaScript] Key manageSubscriptions is already defined!
+-01-08 17:45:30.802 [info][tid:com.facebook.react.JavaScript] Key subscriptions is already defined!
+-01-08 17:45:30.802 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:45:30.803 [info][tid:com.facebook.react.JavaScript] Key subscriptionInfo is already defined!
+-01-08 17:45:30.803 [info][tid:com.facebook.react.JavaScript] Key root is already defined!
+-01-08 17:45:32.801 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:38.570 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:44.299 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:49.881 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:45:55.479 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:01.074 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:06.672 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:12.250 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:17.890 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:23.466 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:29.046 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:34.625 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:40.234 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:45.817 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:51.441 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:57.024 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:46:59.141 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 17:46:59.258 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 17:46:59.344 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 17:46:59.473 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 17:46:59.515 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 17:46:59.517 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 17:46:59.537 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:47:00.156 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:02.175 [warn][tid:com.facebook.react.JavaScript] Possible Unhandled Promise Rejection (id: 0):
+SyntaxError: JSON Parse error: Unexpected identifier "Tunnel"
+parse@[native code]
+tryCallOne@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3158:14
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:3244:25
+_callTimer@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2457:15
+_callImmediatesPass@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2493:17
+callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2697:31
+__callImmediates@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:2005:30
+http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1861:31
+__guard@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1991:11
+flushedQueue@http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false:1860:20
+-01-08 17:47:05.759 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:11.365 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:16.966 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:20.642 [info][tid:com.facebook.react.JavaScript] Key main is already defined!
+-01-08 17:47:20.642 [info][tid:com.facebook.react.JavaScript] Key campaign is already defined!
+-01-08 17:47:20.642 [info][tid:com.facebook.react.JavaScript] Key conversation is already defined!
+-01-08 17:47:20.643 [info][tid:com.facebook.react.JavaScript] Key conversationSettings is already defined!
+-01-08 17:47:20.643 [info][tid:com.facebook.react.JavaScript] Key conversationMembers is already defined!
+-01-08 17:47:20.643 [info][tid:com.facebook.react.JavaScript] Key conversationRecipients is already defined!
+-01-08 17:47:20.643 [info][tid:com.facebook.react.JavaScript] Key conversationReplies is already defined!
+-01-08 17:47:20.644 [info][tid:com.facebook.react.JavaScript] Key directMessages is already defined!
+-01-08 17:47:20.644 [info][tid:com.facebook.react.JavaScript] Key tags is already defined!
+-01-08 17:47:20.644 [info][tid:com.facebook.react.JavaScript] Key templates is already defined!
+-01-08 17:47:20.644 [info][tid:com.facebook.react.JavaScript] Key missedTags is already defined!
+-01-08 17:47:20.645 [info][tid:com.facebook.react.JavaScript] Key auth is already defined!
+-01-08 17:47:20.645 [info][tid:com.facebook.react.JavaScript] Key contacts is already defined!
+-01-08 17:47:20.645 [info][tid:com.facebook.react.JavaScript] Key faq is already defined!
+-01-08 17:47:20.645 [info][tid:com.facebook.react.JavaScript] Key messageRecipients is already defined!
+-01-08 17:47:20.645 [info][tid:com.facebook.react.JavaScript] Key contact is already defined!
+-01-08 17:47:20.646 [info][tid:com.facebook.react.JavaScript] Key tag is already defined!
+-01-08 17:47:20.646 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:47:20.646 [info][tid:com.facebook.react.JavaScript] Key setupProAccount is already defined!
+-01-08 17:47:20.646 [info][tid:com.facebook.react.JavaScript] Key manageSubscriptions is already defined!
+-01-08 17:47:20.647 [info][tid:com.facebook.react.JavaScript] Key subscriptions is already defined!
+-01-08 17:47:20.647 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:47:20.647 [info][tid:com.facebook.react.JavaScript] Key subscriptionInfo is already defined!
+-01-08 17:47:20.647 [info][tid:com.facebook.react.JavaScript] Key root is already defined!
+-01-08 17:47:20.735 [info][tid:com.facebook.react.JavaScript] 'REMOVE LOCAL NOTIFICATION', null
+-01-08 17:47:20.740 [info][tid:com.facebook.react.JavaScript] '>>>> text', { recordID: 'AB211C5F-9EC9-429F-9466-B9382FF61035',
+  primaryPhoneNumber: '(408) 555-5270',
+  givenName: 'Daniel',
+  familyName: 'Higgins',
+  dateTags: [],
+  stringTags:
+   [ { tagId: 'firstname',
+       value: 'Daniel',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'lastname',
+       value: 'Higgins',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'nameSuffix',
+       value: 'Jr.',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'note',
+       value: 'Sister: Emily',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'homephone',
+       value: '555-478-7672',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'mobilephone',
+       value: '(408) 555-5270',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'homefaxphone',
+       value: '(408) 555-3514',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'homeemail',
+       value: 'd-higgins@mac.com',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'homeregion',
+       value: 'Corte Madera',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'homestreet',
+       value: '332 Laguna Street',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'homecity',
+       value: 'Corte Madera',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'homepostcode',
+       value: '94925',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'homecountry',
+       value: 'USA',
+       defaultValue: '',
+       changedByUser: false,
+       imported: true },
+     { tagId: 'company', value: 'Winnlab' } ],
+  numberTags: [] }
+-01-08 17:47:20.983 [info][tid:com.facebook.react.JavaScript] Key main is already defined!
+-01-08 17:47:20.984 [info][tid:com.facebook.react.JavaScript] Key campaign is already defined!
+-01-08 17:47:20.984 [info][tid:com.facebook.react.JavaScript] Key conversation is already defined!
+-01-08 17:47:20.984 [info][tid:com.facebook.react.JavaScript] Key conversationSettings is already defined!
+-01-08 17:47:20.985 [info][tid:com.facebook.react.JavaScript] Key conversationMembers is already defined!
+-01-08 17:47:20.985 [info][tid:com.facebook.react.JavaScript] Key conversationRecipients is already defined!
+-01-08 17:47:20.985 [info][tid:com.facebook.react.JavaScript] Key conversationReplies is already defined!
+-01-08 17:47:20.985 [info][tid:com.facebook.react.JavaScript] Key directMessages is already defined!
+-01-08 17:47:20.986 [info][tid:com.facebook.react.JavaScript] Key tags is already defined!
+-01-08 17:47:20.986 [info][tid:com.facebook.react.JavaScript] Key templates is already defined!
+-01-08 17:47:20.986 [info][tid:com.facebook.react.JavaScript] Key missedTags is already defined!
+-01-08 17:47:20.986 [info][tid:com.facebook.react.JavaScript] Key auth is already defined!
+-01-08 17:47:20.987 [info][tid:com.facebook.react.JavaScript] Key contacts is already defined!
+-01-08 17:47:20.987 [info][tid:com.facebook.react.JavaScript] Key faq is already defined!
+-01-08 17:47:20.987 [info][tid:com.facebook.react.JavaScript] Key messageRecipients is already defined!
+-01-08 17:47:20.987 [info][tid:com.facebook.react.JavaScript] Key contact is already defined!
+-01-08 17:47:20.988 [info][tid:com.facebook.react.JavaScript] Key tag is already defined!
+-01-08 17:47:20.988 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:47:20.988 [info][tid:com.facebook.react.JavaScript] Key setupProAccount is already defined!
+-01-08 17:47:20.989 [info][tid:com.facebook.react.JavaScript] Key manageSubscriptions is already defined!
+-01-08 17:47:20.989 [info][tid:com.facebook.react.JavaScript] Key subscriptions is already defined!
+-01-08 17:47:20.989 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:47:20.990 [info][tid:com.facebook.react.JavaScript] Key subscriptionInfo is already defined!
+-01-08 17:47:20.990 [info][tid:com.facebook.react.JavaScript] Key root is already defined!
+-01-08 17:47:22.640 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:22.995 [info][tid:com.facebook.react.JavaScript] 'END', 18472
+-01-08 17:47:28.230 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:33.853 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:39.446 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:45.182 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:50.770 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:47:56.344 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:01.925 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:07.524 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:13.114 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:18.686 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:24.265 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:29.847 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:35.437 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:41.046 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:46.662 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:52.251 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:48:57.873 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:03.487 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:09.106 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:14.678 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:20.278 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:26.075 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:31.654 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:37.247 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:42.914 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:49.009 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:49:54.695 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:00.314 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:05.900 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:11.501 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:17.120 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:22.715 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:28.312 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:33.898 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:39.492 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:45.099 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:50.888 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 17:50:55.697 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 17:50:55.814 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 17:50:55.893 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 17:50:56.008 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 17:50:56.061 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 17:50:56.062 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 17:50:56.115 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:51:17.458 [info][tid:com.facebook.react.JavaScript] 'END', 16798
+-01-08 17:55:50.010 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 17:55:50.130 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 17:55:50.218 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 17:55:50.342 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 17:55:50.387 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 17:55:50.388 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 17:55:50.409 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:56:12.580 [info][tid:com.facebook.react.JavaScript] 'END', 17271
+-01-08 17:56:17.930 [info][tid:com.facebook.react.JavaScript] Key main is already defined!
+-01-08 17:56:17.931 [info][tid:com.facebook.react.JavaScript] Key campaign is already defined!
+-01-08 17:56:17.933 [info][tid:com.facebook.react.JavaScript] Key conversation is already defined!
+-01-08 17:56:17.935 [info][tid:com.facebook.react.JavaScript] Key conversationSettings is already defined!
+-01-08 17:56:17.935 [info][tid:com.facebook.react.JavaScript] Key conversationMembers is already defined!
+-01-08 17:56:17.935 [info][tid:com.facebook.react.JavaScript] Key conversationRecipients is already defined!
+-01-08 17:56:17.936 [info][tid:com.facebook.react.JavaScript] Key conversationReplies is already defined!
+-01-08 17:56:17.937 [info][tid:com.facebook.react.JavaScript] Key directMessages is already defined!
+-01-08 17:56:17.937 [info][tid:com.facebook.react.JavaScript] Key tags is already defined!
+-01-08 17:56:17.938 [info][tid:com.facebook.react.JavaScript] Key templates is already defined!
+-01-08 17:56:17.939 [info][tid:com.facebook.react.JavaScript] Key missedTags is already defined!
+-01-08 17:56:17.939 [info][tid:com.facebook.react.JavaScript] Key auth is already defined!
+-01-08 17:56:17.940 [info][tid:com.facebook.react.JavaScript] Key contacts is already defined!
+-01-08 17:56:17.946 [info][tid:com.facebook.react.JavaScript] Key faq is already defined!
+-01-08 17:56:17.947 [info][tid:com.facebook.react.JavaScript] Key messageRecipients is already defined!
+-01-08 17:56:17.947 [info][tid:com.facebook.react.JavaScript] Key contact is already defined!
+-01-08 17:56:17.947 [info][tid:com.facebook.react.JavaScript] Key tag is already defined!
+-01-08 17:56:17.947 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:56:17.948 [info][tid:com.facebook.react.JavaScript] Key setupProAccount is already defined!
+-01-08 17:56:17.948 [info][tid:com.facebook.react.JavaScript] Key manageSubscriptions is already defined!
+-01-08 17:56:17.948 [info][tid:com.facebook.react.JavaScript] Key subscriptions is already defined!
+-01-08 17:56:17.948 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:56:17.949 [info][tid:com.facebook.react.JavaScript] Key subscriptionInfo is already defined!
+-01-08 17:56:17.949 [info][tid:com.facebook.react.JavaScript] Key root is already defined!
+-01-08 17:56:18.036 [info][tid:com.facebook.react.JavaScript] 'REMOVE LOCAL NOTIFICATION', null
+-01-08 17:56:18.040 [info][tid:com.facebook.react.JavaScript] '>>>> text', 'Do you still work for Winnlab2?'
+-01-08 17:56:18.253 [info][tid:com.facebook.react.JavaScript] Key main is already defined!
+-01-08 17:56:18.253 [info][tid:com.facebook.react.JavaScript] Key campaign is already defined!
+-01-08 17:56:18.254 [info][tid:com.facebook.react.JavaScript] Key conversation is already defined!
+-01-08 17:56:18.254 [info][tid:com.facebook.react.JavaScript] Key conversationSettings is already defined!
+-01-08 17:56:18.255 [info][tid:com.facebook.react.JavaScript] Key conversationMembers is already defined!
+-01-08 17:56:18.255 [info][tid:com.facebook.react.JavaScript] Key conversationRecipients is already defined!
+-01-08 17:56:18.278 [info][tid:com.facebook.react.JavaScript] Key conversationReplies is already defined!
+-01-08 17:56:18.279 [info][tid:com.facebook.react.JavaScript] Key directMessages is already defined!
+-01-08 17:56:18.279 [info][tid:com.facebook.react.JavaScript] Key tags is already defined!
+-01-08 17:56:18.280 [info][tid:com.facebook.react.JavaScript] Key templates is already defined!
+-01-08 17:56:18.280 [info][tid:com.facebook.react.JavaScript] Key missedTags is already defined!
+-01-08 17:56:18.280 [info][tid:com.facebook.react.JavaScript] Key auth is already defined!
+-01-08 17:56:18.288 [info][tid:com.facebook.react.JavaScript] Key contacts is already defined!
+-01-08 17:56:18.289 [info][tid:com.facebook.react.JavaScript] Key faq is already defined!
+-01-08 17:56:18.289 [info][tid:com.facebook.react.JavaScript] Key messageRecipients is already defined!
+-01-08 17:56:18.290 [info][tid:com.facebook.react.JavaScript] Key contact is already defined!
+-01-08 17:56:18.290 [info][tid:com.facebook.react.JavaScript] Key tag is already defined!
+-01-08 17:56:18.291 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:56:18.291 [info][tid:com.facebook.react.JavaScript] Key setupProAccount is already defined!
+-01-08 17:56:18.291 [info][tid:com.facebook.react.JavaScript] Key manageSubscriptions is already defined!
+-01-08 17:56:18.292 [info][tid:com.facebook.react.JavaScript] Key subscriptions is already defined!
+-01-08 17:56:18.292 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 17:56:18.293 [info][tid:com.facebook.react.JavaScript] Key subscriptionInfo is already defined!
+-01-08 17:56:18.293 [info][tid:com.facebook.react.JavaScript] Key root is already defined!
+-01-08 18:21:30.238 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 18:21:30.366 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 18:21:30.455 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 18:21:30.584 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 18:21:30.630 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 18:21:30.631 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 18:21:30.687 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 18:21:30.918 [error][tid:com.facebook.react.JavaScript] RawText "" must be wrapped in an explicit <Text> component.
+-01-08 18:21:52.351 [info][tid:com.facebook.react.JavaScript] 'END', 16817
+-01-08 18:22:21.834 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 18:22:21.955 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 18:22:22.039 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 18:22:22.166 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 18:22:22.214 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 18:22:22.215 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 18:22:22.232 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 18:22:43.697 [info][tid:com.facebook.react.JavaScript] 'END', 16846
+-01-08 18:22:55.439 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 18:22:55.565 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 18:22:55.649 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 18:22:55.778 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 18:22:55.831 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 18:22:55.832 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 18:22:55.866 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 18:23:11.022 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 18:23:11.151 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 18:23:11.237 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 18:23:11.362 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 18:23:11.417 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 18:23:11.418 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 18:23:11.469 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 18:23:23.124 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 18:23:23.248 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 18:23:23.328 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 18:23:23.464 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 18:23:23.518 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 18:23:23.519 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 18:23:23.537 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 18:23:31.336 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-08 18:23:31.457 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-08 18:23:31.538 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-08 18:23:31.662 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-08 18:23:31.711 [info][tid:com.facebook.react.JavaScript] granted
+-01-08 18:23:31.712 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-08 18:23:31.766 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-08 18:23:53.717 [info][tid:com.facebook.react.JavaScript] 'END', 17273
+-01-08 18:44:24.078 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 19:04:39.134 [info][tid:com.facebook.react.JavaScript] 'ws error', 'The operation couldn’t be completed. (OSStatus error -9806.)'
+-01-08 19:05:06.821 [info][tid:com.facebook.react.JavaScript] 'ws error', 'The operation couldn’t be completed. (OSStatus error -9806.)'
+-01-08 19:05:22.016 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 19:05:30.364 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 19:06:03.067 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 404'
+-01-08 19:06:23.366 [info][tid:com.facebook.react.JavaScript] 'ws error', 'received bad response code from server 502'
+-01-10 09:40:59.159 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-10 09:40:59.354 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-10 09:40:59.462 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-10 09:40:59.597 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-10 09:40:59.669 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-10 09:40:59.672 [info][tid:com.facebook.react.JavaScript] granted
+-01-10 09:40:59.729 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 09:41:23.216 [info][tid:com.facebook.react.JavaScript] 'END', 18290
+-01-10 09:43:25.174 [info][tid:com.facebook.react.JavaScript] 'END', 16839
+-01-10 09:43:26.405 [info][tid:com.facebook.react.JavaScript] 'REMOVE LOCAL NOTIFICATION', '1515573759401'
+-01-10 09:44:46.760 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-10 09:44:46.883 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-10 09:44:46.973 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-10 09:44:47.103 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-10 09:44:47.147 [info][tid:com.facebook.react.JavaScript] granted
+-01-10 09:44:47.148 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-10 09:44:47.200 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 09:45:09.430 [info][tid:com.facebook.react.JavaScript] 'END', 17380
+-01-10 09:47:17.632 [info][tid:com.facebook.react.JavaScript] Key main is already defined!
+-01-10 09:47:17.632 [info][tid:com.facebook.react.JavaScript] Key campaign is already defined!
+-01-10 09:47:17.633 [info][tid:com.facebook.react.JavaScript] Key conversation is already defined!
+-01-10 09:47:17.633 [info][tid:com.facebook.react.JavaScript] Key conversationSettings is already defined!
+-01-10 09:47:17.633 [info][tid:com.facebook.react.JavaScript] Key conversationMembers is already defined!
+-01-10 09:47:17.633 [info][tid:com.facebook.react.JavaScript] Key conversationRecipients is already defined!
+-01-10 09:47:17.634 [info][tid:com.facebook.react.JavaScript] Key conversationReplies is already defined!
+-01-10 09:47:17.634 [info][tid:com.facebook.react.JavaScript] Key directMessages is already defined!
+-01-10 09:47:17.634 [info][tid:com.facebook.react.JavaScript] Key tags is already defined!
+-01-10 09:47:17.634 [info][tid:com.facebook.react.JavaScript] Key templates is already defined!
+-01-10 09:47:17.635 [info][tid:com.facebook.react.JavaScript] Key missedTags is already defined!
+-01-10 09:47:17.635 [info][tid:com.facebook.react.JavaScript] Key auth is already defined!
+-01-10 09:47:17.635 [info][tid:com.facebook.react.JavaScript] Key contacts is already defined!
+-01-10 09:47:17.635 [info][tid:com.facebook.react.JavaScript] Key faq is already defined!
+-01-10 09:47:17.636 [info][tid:com.facebook.react.JavaScript] Key messageRecipients is already defined!
+-01-10 09:47:17.636 [info][tid:com.facebook.react.JavaScript] Key contact is already defined!
+-01-10 09:47:17.636 [info][tid:com.facebook.react.JavaScript] Key tag is already defined!
+-01-10 09:47:17.636 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 09:47:17.637 [info][tid:com.facebook.react.JavaScript] Key setupProAccount is already defined!
+-01-10 09:47:17.637 [info][tid:com.facebook.react.JavaScript] Key manageSubscriptions is already defined!
+-01-10 09:47:17.637 [info][tid:com.facebook.react.JavaScript] Key subscriptions is already defined!
+-01-10 09:47:17.638 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 09:47:17.638 [info][tid:com.facebook.react.JavaScript] Key subscriptionInfo is already defined!
+-01-10 09:47:17.638 [info][tid:com.facebook.react.JavaScript] Key root is already defined!
+-01-10 09:47:17.683 [info][tid:com.facebook.react.JavaScript] 'REMOVE LOCAL NOTIFICATION', '1515573999053'
+-01-10 09:47:17.687 [info][tid:com.facebook.react.JavaScript] '>>> TEXT', 'Hi Daniel Company winnlab'
+-01-10 09:47:17.903 [info][tid:com.facebook.react.JavaScript] Key main is already defined!
+-01-10 09:47:17.903 [info][tid:com.facebook.react.JavaScript] Key campaign is already defined!
+-01-10 09:47:17.904 [info][tid:com.facebook.react.JavaScript] Key conversation is already defined!
+-01-10 09:47:17.904 [info][tid:com.facebook.react.JavaScript] Key conversationSettings is already defined!
+-01-10 09:47:17.904 [info][tid:com.facebook.react.JavaScript] Key conversationMembers is already defined!
+-01-10 09:47:17.905 [info][tid:com.facebook.react.JavaScript] Key conversationRecipients is already defined!
+-01-10 09:47:17.913 [info][tid:com.facebook.react.JavaScript] Key conversationReplies is already defined!
+-01-10 09:47:17.913 [info][tid:com.facebook.react.JavaScript] Key directMessages is already defined!
+-01-10 09:47:17.914 [info][tid:com.facebook.react.JavaScript] Key tags is already defined!
+-01-10 09:47:17.914 [info][tid:com.facebook.react.JavaScript] Key templates is already defined!
+-01-10 09:47:17.914 [info][tid:com.facebook.react.JavaScript] Key missedTags is already defined!
+-01-10 09:47:17.915 [info][tid:com.facebook.react.JavaScript] Key auth is already defined!
+-01-10 09:47:17.915 [info][tid:com.facebook.react.JavaScript] Key contacts is already defined!
+-01-10 09:47:17.915 [info][tid:com.facebook.react.JavaScript] Key faq is already defined!
+-01-10 09:47:17.915 [info][tid:com.facebook.react.JavaScript] Key messageRecipients is already defined!
+-01-10 09:47:17.916 [info][tid:com.facebook.react.JavaScript] Key contact is already defined!
+-01-10 09:47:17.916 [info][tid:com.facebook.react.JavaScript] Key tag is already defined!
+-01-10 09:47:17.916 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 09:47:17.916 [info][tid:com.facebook.react.JavaScript] Key setupProAccount is already defined!
+-01-10 09:47:17.917 [info][tid:com.facebook.react.JavaScript] Key manageSubscriptions is already defined!
+-01-10 09:47:17.917 [info][tid:com.facebook.react.JavaScript] Key subscriptions is already defined!
+-01-10 09:47:17.917 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 09:47:17.917 [info][tid:com.facebook.react.JavaScript] Key subscriptionInfo is already defined!
+-01-10 09:47:17.918 [info][tid:com.facebook.react.JavaScript] Key root is already defined!
+-01-10 09:51:59.232 [info][tid:com.facebook.react.JavaScript] 'canceled', { [Error: User cancelled image selection]
+  line: 1756,
+  column: 24,
+  sourceURL: 'http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false',
+  framesToPop: 1,
+  code: 'E_PICKER_CANCELLED',
+  nativeStackIOS:
+   [ '0   HitEmUp                             0x000000010a3b3996 RCTJSErrorFromCodeMessageAndNSError + 134',
+     '1   HitEmUp                             0x000000010a336b68 __41-[RCTModuleMethod processMethodSignature]_block_invoke_2.216 + 184',
+     '2   HitEmUp                             0x000000010ae30979 __53-[ImageCropPicker qb_imagePickerControllerDidCancel:]_block_invoke + 89',
+     '3   UIKit                               0x000000010e74502e -[UIPresentationController transitionDidFinish:] + 1346',
+     '4   UIKit                               0x000000010e9ccc1e -[_UICurrentContextPresentationController transitionDidFinish:] + 44',
+     '5   UIKit                               0x000000010e748f4f __56-[UIPresentationController runTransitionForCurrentState]_block_invoke_2 + 183',
+     '6   UIKit                               0x000000010f33d088 -[_UIViewControllerTransitionContext completeTransition:] + 102',
+     '7   UIKit                               0x000000010e741dba -[UITransitionView notifyDidCompleteTransition:] + 251',
+     '8   UIKit                               0x000000010e741a31 -[UITransitionView _didCompleteTransition:] + 1397',
+     '9   UIKit                               0x000000010e7440c8 -[UITransitionView _transitionDidStop:finished:] + 104',
+     '10  UIKit                               0x000000010e6656c4 -[UIViewAnimationState sendDelegateAnimationDidStop:finished:] + 343',
+     '11  UIKit                               0x000000010e665d23 -[UIViewAnimationState animationDidStop:finished:] + 293',
+     '12  UIKit                               0x000000010e665dd7 -[UIViewAnimationState animationDidStop:finished:] + 473',
+     '13  QuartzCore                          0x000000010df3a6bd _ZN2CA5Layer23run_animation_callbacksEPv + 323',
+     '14  libdispatch.dylib                   0x000000011504233d _dispatch_client_callout + 8',
+     '15  libdispatch.dylib                   0x000000011504d5f9 _dispatch_main_queue_callback_4CF + 628',
+     '16  CoreFoundation                      0x0000000112c7ce39 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 9',
+     '17  CoreFoundation                      0x0000000112c41462 __CFRunLoopRun + 2402',
+     '18  CoreFoundation                      0x0000000112c40889 CFRunLoopRunSpecific + 409',
+     '19  GraphicsServices                    0x00000001158c09c6 GSEventRunModal + 62',
+     '20  UIKit                               0x000000010e5cf5d6 UIApplicationMain + 159',
+     '21  HitEmUp                             0x000000010a1f205f main + 111',
+     '22  libdyld.dylib                       0x00000001150bed81 start + 1',
+     '23  ???                                 0x0000000000000002 0x0 + 2' ],
+  userInfo: null,
+  domain: 'RCTErrorDomain' }
+-01-10 09:52:18.141 [info][tid:com.facebook.react.JavaScript] 'END', 16831
+-01-10 10:34:05.588 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-10 10:34:05.711 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-10 10:34:05.794 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-10 10:34:05.906 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-10 10:34:05.946 [info][tid:com.facebook.react.JavaScript] granted
+-01-10 10:34:05.947 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-10 10:34:05.999 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 10:34:27.963 [info][tid:com.facebook.react.JavaScript] 'END', 16829
+-01-10 10:34:30.939 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-10 10:34:31.066 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-10 10:34:31.150 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-10 10:34:31.273 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-10 10:34:31.315 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-10 10:34:31.318 [info][tid:com.facebook.react.JavaScript] granted
+-01-10 10:34:31.334 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 10:34:52.783 [info][tid:com.facebook.react.JavaScript] 'END', 16837
+-01-10 10:39:43.267 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-10 10:39:43.394 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-10 10:39:43.478 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-10 10:39:43.614 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-10 10:39:43.657 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-10 10:39:43.662 [info][tid:com.facebook.react.JavaScript] granted
+-01-10 10:39:43.678 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 10:40:05.599 [info][tid:com.facebook.react.JavaScript] 'END', 17025
+-01-10 10:40:25.305 [info][tid:com.facebook.react.JavaScript] 'canceled', { [Error: User cancelled image selection]
+  line: 1756,
+  column: 24,
+  sourceURL: 'http://localhost:8081/index.ios.bundle?platform=ios&dev=true&minify=false',
+  framesToPop: 1,
+  code: 'E_PICKER_CANCELLED',
+  nativeStackIOS:
+   [ '0   HitEmUp                             0x000000010a3b3996 RCTJSErrorFromCodeMessageAndNSError + 134',
+     '1   HitEmUp                             0x000000010a336b68 __41-[RCTModuleMethod processMethodSignature]_block_invoke_2.216 + 184',
+     '2   HitEmUp                             0x000000010ae30979 __53-[ImageCropPicker qb_imagePickerControllerDidCancel:]_block_invoke + 89',
+     '3   UIKit                               0x000000010e74502e -[UIPresentationController transitionDidFinish:] + 1346',
+     '4   UIKit                               0x000000010e9ccc1e -[_UICurrentContextPresentationController transitionDidFinish:] + 44',
+     '5   UIKit                               0x000000010e748f4f __56-[UIPresentationController runTransitionForCurrentState]_block_invoke_2 + 183',
+     '6   UIKit                               0x000000010f33d088 -[_UIViewControllerTransitionContext completeTransition:] + 102',
+     '7   UIKit                               0x000000010e741dba -[UITransitionView notifyDidCompleteTransition:] + 251',
+     '8   UIKit                               0x000000010e741a31 -[UITransitionView _didCompleteTransition:] + 1397',
+     '9   UIKit                               0x000000010e7440c8 -[UITransitionView _transitionDidStop:finished:] + 104',
+     '10  UIKit                               0x000000010e6656c4 -[UIViewAnimationState sendDelegateAnimationDidStop:finished:] + 343',
+     '11  UIKit                               0x000000010e665d23 -[UIViewAnimationState animationDidStop:finished:] + 293',
+     '12  UIKit                               0x000000010e665dd7 -[UIViewAnimationState animationDidStop:finished:] + 473',
+     '13  QuartzCore                          0x000000010df3a6bd _ZN2CA5Layer23run_animation_callbacksEPv + 323',
+     '14  libdispatch.dylib                   0x000000011504233d _dispatch_client_callout + 8',
+     '15  libdispatch.dylib                   0x000000011504d5f9 _dispatch_main_queue_callback_4CF + 628',
+     '16  CoreFoundation                      0x0000000112c7ce39 __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 9',
+     '17  CoreFoundation                      0x0000000112c41462 __CFRunLoopRun + 2402',
+     '18  CoreFoundation                      0x0000000112c40889 CFRunLoopRunSpecific + 409',
+     '19  GraphicsServices                    0x00000001158c09c6 GSEventRunModal + 62',
+     '20  UIKit                               0x000000010e5cf5d6 UIApplicationMain + 159',
+     '21  HitEmUp                             0x000000010a1f205f main + 111',
+     '22  libdyld.dylib                       0x00000001150bed81 start + 1',
+     '23  ???                                 0x0000000000000002 0x0 + 2' ],
+  userInfo: null,
+  domain: 'RCTErrorDomain' }
+-01-10 15:09:08.909 [warn][tid:com.facebook.react.JavaScript] Warning: PropTypes has been moved to a separate package. Accessing React.PropTypes is no longer supported and will be removed completely in React 16. Use the prop-types package on npm instead. (https://fb.me/migrating-from-react-proptypes)
+-01-10 15:09:09.046 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOf, expected an instance of array.
+-01-10 15:09:09.138 [warn][tid:com.facebook.react.JavaScript] Warning: Invalid argument supplied to oneOfType, expected an instance of array.
+-01-10 15:09:09.271 [info][tid:com.facebook.react.JavaScript] Running application "HitEmUp" with appParams: {"rootTag":1,"initialProps":{}}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+-01-10 15:09:09.320 [info][tid:com.facebook.react.JavaScript] granted
+-01-10 15:09:09.321 [info][tid:com.facebook.react.JavaScript] '>>> PUSH NOTIFICATION TOKEN:', 'cu14cTq3aQ8:APA91bE12FaxpdpizKH13qxTwK_nt8T_P_sMMcTf-pVlVxrQXGkHBMU5KZrvuXXpbnXUpXyAZ2iIl9W4lU8RmCnVaSi1zf7DFZDI8OfO0XXZTwD9D7ruUYo-6oJBL2JGk7JYexWIQGTo'
+-01-10 15:09:09.378 [info][tid:com.facebook.react.JavaScript] Key checkout is already defined!
+-01-10 15:09:09.657 [info][tid:com.facebook.react.JavaScript] '>>>> CONVERSATION', true
+-01-10 15:09:31.209 [info][tid:com.facebook.react.JavaScript] 'END', 16833

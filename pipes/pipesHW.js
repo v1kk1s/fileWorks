@@ -4,7 +4,10 @@ var readable = fs.createReadStream('./hw.log');
 var writable = fs.createWriteStream('./big.file');
 
 readable
-  .pipe(split(/JavaScript \w+/))
+  .pipe(split('2018'))
   .on('data', (chunk) => {
-    writable.write(chunk);
+    const chunkStr = chunk.toString();
+    if (chunkStr.includes('JavaScript')) {
+      writable.write(chunk);
+    }
   });
