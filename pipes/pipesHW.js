@@ -1,9 +1,10 @@
-const split = require('split');
-const readable = fs.createReadStream('./hw.log');
-const writable = fs.createWriteStream('./big.file');
+var split = require('split');
+var fs = require('fs');
+var readable = fs.createReadStream('./hw.log');
+var writable = fs.createWriteStream('./big.file');
 
 readable
-  .pipe(split(new RegExp(/JavaScript \w+/), null, { trailing: false }))
+  .pipe(split(/JavaScript \w+/))
   .on('data', (chunk) => {
     writable.write(chunk);
   });
